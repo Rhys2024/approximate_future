@@ -1,5 +1,4 @@
 import plotly.graph_objs as go
-from itertools import cycle
 
 from lorenz import *
 
